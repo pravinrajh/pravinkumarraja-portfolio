@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f7fa;
+  color: #333;
+}
+
+header {
+  background: #0f172a;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  margin-top: 8px;
+}
+
+.contact a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+section {
+  padding: 30px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #0f172a;
+  border-bottom: 2px solid #38bdf8;
+  padding-bottom: 6px;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.metrics {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.metrics div {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  width: 30%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+footer {
+  background: #0f172a;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
